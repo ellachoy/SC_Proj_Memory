@@ -29,3 +29,11 @@ getAttribute ( JS )
 
 
 #History:
+ziel: da ich mit Js unsicher fühle, möchte ich mit diesem Project meine bis jährige kentnisse über JS überprüfen. 
+
+Tag 1: am Anfang merke ich: ich kann kein plan erstellen für dieses project. 
+
+                           -Grund: unsicheres Gefühl Js anzuwenden.
+                           -plan: ich mache erst was ich kann.( mit HTML, CSS bearbeiten) dabei grob planen, wie sollte die code in dem Js
+                                  geschrieben werden sollte. (zb. Array/object/ function , img aufrufen zu dem browser)
+                                  
