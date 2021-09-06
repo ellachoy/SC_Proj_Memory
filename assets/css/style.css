@@ -1,3 +1,4 @@
+@import url("https://fonts.googleapis.com/css2?family=Varela+Round&display=swap");
 * {
   margin: 0;
   padding: 0;
@@ -11,10 +12,11 @@ main {
   height: 100vh;
 }
 section {
-  background-color: rgb(195, 82, 73);
+  background-color: rgb(226, 23, 23);
   opacity: 0.7;
   color: #fff;
   font-size: 2em;
+  font-family: "Varela Round", sans-serif;
   padding: 15px;
   margin-bottom: 15%;
 }
@@ -47,6 +49,6 @@ td img {
   margin: 10px;
 }
 img {
-  height: 150px;
-  width: 150px;
+  height: 120px;
+  width: 120px;
 }
