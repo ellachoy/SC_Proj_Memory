@@ -35,6 +35,6 @@ ziel: da ich mit Js unsicher fühle, möchte ich mit diesem Project meine bis j�
 Tag 1: am Anfang merke ich: ich kann kein plan erstellen für dieses project. 
 
                            -Grund: unsicheres Gefühl Js anzuwenden.
-                           -plan: ich mache erst was ich kann.( mit HTML, CSS bearbeiten) dabei grob planen, wie die code in dem Js
-                                  geschrieben werden sollte . (zb. needed: Array/object/ function , img aufrufen zu dem browser)
+                           -plan: ich mache erst was ich kann.( mit HTML, CSS bearbeiten) parallell grob planen, wie die code in dem Js
+                                  geschrieben werden sollte . (zb. need: Array/object/ function , img aufrufen zu dem browser)
                                   
