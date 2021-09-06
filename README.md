@@ -29,6 +29,7 @@ getAttribute ( JS )
 
 
 #History:
+
 ziel: da ich mit Js unsicher fühle, möchte ich mit diesem Project meine bis jährige kentnisse über JS überprüfen. 
 
 Tag 1: am Anfang merke ich: ich kann kein plan erstellen für dieses project. 
