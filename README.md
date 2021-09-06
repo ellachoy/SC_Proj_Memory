@@ -37,4 +37,5 @@ Tag 1: am Anfang merke ich: ich kann kein plan erstellen für dieses project.
                            -Grund: unsicheres Gefühl Js anzuwenden.
                            -plan: ich mache erst was ich kann.(erst style:  mit HTML, CSS bearbeiten) parallell grob planen, wie die code in dem Js
                                   geschrieben werden sollte . (zb. need: Array/object/ function , img aufrufen zu dem browser)
+                           -tun: gemerkt: bevor ich mit Array und objet anzuwenden, verständnisse und Anwendungsfähigkeit mit Funkion fehlt mir. -> lerne grundbaustein über Funktion. um diese für alle Fälle anzuwenden können.        
                                   
