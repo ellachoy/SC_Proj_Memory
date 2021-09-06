@@ -16,6 +16,7 @@ section {
   color: #fff;
   font-size: 2em;
   padding: 15px;
+  margin-bottom: 15%;
 }
 .score ul {
   display: flex;
@@ -31,4 +32,21 @@ section ul li:nth-child(1) {
 }
 section ul li {
   margin-bottom: 25px;
+}
+table {
+  margin: 0 auto;
+  background-color: lightgray;
+  padding: 3%;
+  border: white solid 1px;
+  border-radius: 50px;
+  /* border-collapse: collapse; */
+}
+tr,
+td img {
+  border: solid 1px;
+  margin: 10px;
+}
+img {
+  height: 150px;
+  width: 150px;
 }
