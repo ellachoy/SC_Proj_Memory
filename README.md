@@ -3,7 +3,7 @@
  
 JS Vertiefung CodeFlow Übung lev3_20: memory - 
 
-##Aufgabenstellung
+# Aufgabenstellung
 
    In dieser Übung programmierst du den Spieleklassiker Memory.
 
@@ -17,7 +17,7 @@ JS Vertiefung CodeFlow Übung lev3_20: memory -
 
    -Gefundene Paare bleiben offen liegen, wenn es kein Paar ist dann drehen sich die Karten wieder um.
 
-##Hinweis:
+# Hinweis:
 
    Für diese Aufgabe benötigst Du möglicherweise die folgende Eigenschaften:
 
@@ -28,7 +28,7 @@ JS Vertiefung CodeFlow Übung lev3_20: memory -
 
 
 
-##*** History zum Problem zu lösen:
+# History zum Problem zu lösen:
 
    ziel: da ich mit Js unsicher fühle, möchte ich mit diesem Project meine bis jährige kentnisse über JS überprüfen. 
 
