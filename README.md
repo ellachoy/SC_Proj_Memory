@@ -35,9 +35,11 @@ ziel: da ich mit Js unsicher fühle, möchte ich mit diesem Project meine bis j�
 Tag 1: am Anfang merke ich: ich kann kein plan für dieses project erstellen.
 
 -Grund: unsicheres Gefühl Js anzuwenden.
+
 -plan: ich mache erst was ich kann.
       (erst style:  mit HTML, CSS bearbeiten) parallell grob planen, wie die code in dem Js
        geschrieben werden sollte . (zb. need: Array/object/ function , img aufrufen zu dem browser)
+       
 -tun: gemerkt:um Array und objet anzuwenden, verständnisse und Anwendungsfähigkeit mit Funkion fehlt mir. -> lerne grundbaustein über Funktion. um diese für alle Fälle anzuwenden können.  
 
 Tag 2: ich bin mit dem Project noch nicht ganz fertig aber da ich ab morgen neue Sache lernen werde, lasse das Project offen, damit ich damit in nächsten Gelegenheit weiter machen kann.
