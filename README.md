@@ -43,9 +43,13 @@ Tag 1: am Anfang merke ich: ich kann kein plan für dieses project erstellen.
 Tag 2: ich bin mit dem Project noch nicht ganz fertig aber da ich ab morgen neue Sache lernen werde, lasse das Project offen, damit ich damit in nächsten Gelegenheit weiter machen kann.
 
 -Ergolge: grundbaustein von JS wiederholen können.
+
 -Lernpokus: 1.flexible Anwendungsfähigkeit mit JS verbessern.
+
             2. JS data Sturuktur 
+            
             3. IOCE anwenden
+            
 -plan:weiter lernen mit praxis project. 
 
                                   
